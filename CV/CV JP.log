@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2020.11.16)  11 JAN 2022 23:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2020.11.16)  20 SEP 2022 14:07
 entering extended mode
-**./document.tex
-(document.tex
+**"./CV JP.tex"
+("CV JP.tex"
 LaTeX2e <2020-10-01> patch level 2
 L3 programming layer <2020-10-27> xparse <2020-03-03>
 (C:\Users\nirbh\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -279,8 +279,8 @@ tex.def
 File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
 \l__kernel_color_stack_int=\count198
 \l__pdf_internal_box=\box51
-) (document.aux)
-\openout1 = `document.aux'.
+) ("CV JP.aux")
+\openout1 = `"CV JP.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 106.
 LaTeX Font Info:    ... okay on input line 106.
@@ -330,9 +330,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 106.
 LaTeX Info: Redefining \pageref on input line 106.
 LaTeX Info: Redefining \nameref on input line 106.
- (document.out) (document.out)
+ ("CV JP.out") ("CV JP.out")
 \@outlinefile=\write3
-\openout3 = `document.out'.
+\openout3 = `"CV JP.out"'.
 
 
 
@@ -364,8 +364,8 @@ This may cause the page layout to be inconsistent, however.
 [1
 
 {C:/Users/nirbh/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] [2]
-(document.aux)
-Package rerunfilecheck Info: File `document.out' has not changed.
+("CV JP.aux")
+Package rerunfilecheck Info: File `"CV JP".out' has not changed.
 (rerunfilecheck)             Checksum: FFFAE090A04134A761E0170E886B6ED1;205.
 
 
@@ -373,13 +373,13 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 6970 strings out of 479799
- 106902 string characters out of 2869722
- 439099 words of memory out of 3000000
+ 6971 strings out of 479799
+ 106866 string characters out of 2869722
+ 441092 words of memory out of 3000000
  23839 multiletter control sequences out of 15000+200000
  540680 words of font info for 51 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 66i,11n,72p,383b,582s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 66i,11n,72p,386b,462s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/nirbh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
 cmbx10.pfb><C:/Users/nirbh/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
 fonts/cm/cmbx12.pfb><C:/Users/nirbh/AppData/Local/Programs/MiKTeX/fonts/type1/p
@@ -388,7 +388,7 @@ ts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/nirbh/AppData/Local/Programs/Mi
 KTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/nirbh/AppData/Local/Pr
 ograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/nirbh/AppData/
 Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on document.pdf (2 pages, 116266 bytes).
+Output written on "CV JP.pdf" (2 pages, 116465 bytes).
 PDF statistics:
  78 PDF objects out of 1000 (max. 8388607)
  7 named destinations out of 1000 (max. 500000)
